@@ -1,11 +1,3 @@
-#
-#  stats_tests.py
-#  pymaesh
-#
-#  Created by Oliver Borchert on 09/06/19.
-#  Copyright (c) 2019 Oliver Borchert. All rights reserved.
-#
-
 import copy
 import unittest
 import time
